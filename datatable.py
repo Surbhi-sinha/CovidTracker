@@ -9,7 +9,7 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 
 app = dash.Dash(__name__)
-# app.head = [html.Link(rel="stylesheet", href = "/help.css")]
+app.head = [html.Link(rel="stylesheet", href = "/help.css")]
 
 #---------------------------------------------------------------
 #Taken from https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
