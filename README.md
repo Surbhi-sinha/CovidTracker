@@ -34,7 +34,7 @@ Dash is running on http://127.0.0.1:8050/
 
 You see the output as :- 
 
-![OUTPUT IMAGE](covidtracker output.png)
+![OUTPUT IMAGE](covidtrackeroutput.png)
 
 There is an optimised search bar feel free to explore and how the chart and bar graphs behave according to it.
 
